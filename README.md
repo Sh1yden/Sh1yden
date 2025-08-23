@@ -23,8 +23,8 @@
 <h1 align="center">Привет👋! Меня зовут Кирилл aka Shayden или Sh1yden.</h1>
 
 <div align="center">
-  
-  <a>
+
+  <a href="https://t.me/sh1yden">
     <img alt="Мой телеграм" src="https://img.shields.io/badge/Telegram-%20Sh1yden-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Fsh1yden">
   </a>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-  <a>
+  <a href="https://t.me/sh1yden">
     <img alt="My Telegram" src="https://img.shields.io/badge/Telegram-%20Sh1yden-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Fsh1yden">
   </a>
 
