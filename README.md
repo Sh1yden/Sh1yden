@@ -58,15 +58,17 @@
 
 <p>🔥 Моя статистика:</p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sh1yden&theme=github_dark">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sh1yden&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sh1yden&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sh1yden&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sh1yden&theme=github_dark&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sh1yden&theme=github_dark&utcOffset=8">
+</div>
 
 
 
@@ -120,15 +122,19 @@
 
 <p>🔥 My stats:</p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sh1yden&theme=github_dark">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sh1yden&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sh1yden&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sh1yden&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sh1yden&theme=github_dark">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sh1yden&theme=github_dark&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sh1yden&theme=github_dark&utcOffset=8">
+</div>
+
+
 
 
 
