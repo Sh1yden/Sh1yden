@@ -18,6 +18,8 @@
       alt="Россия"> Russian / Русский
   </summary>
 
+
+
   <h1 align="center">Привет👋! Меня зовут Кирилл aka Shayden или Sh1yden.</h1>
 
   <div align="center">
@@ -40,6 +42,8 @@
     Я начинающий back-end разработчик. Учусь программированию уже пару лет.
   </p>
 
+
+
 </details>
 
 ---
@@ -55,6 +59,8 @@
       height="12"                  
       alt="Great Britain"> English / Английский
   </summary>
+
+
 
   <h1 align="center">Hi there👋! My name Kyrill aka Shayden or Sh1yden.</h1>
 
@@ -77,6 +83,8 @@
   <p align="left"> 
     I am a novice back-end developer. I've been learning programming for a couple of years now.
   </p>
+
+  
 
 </details>
 
