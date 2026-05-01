@@ -20,6 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
+    # Принудительно используем актуальный Node.js 24
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       # генерация svg змейки
       - name: generate github-contribution-grid-snake.svg
@@ -30,9 +34,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8a2be2&color_dots=#161b22,#392b5a,#5e3a8c,#8a2be2,#bc8cf2
 
-      # пуш результата в ветку output
+      # пуш результата в ветку output (версия v4 поддерживает Node 24)
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
