@@ -59,6 +59,8 @@ sh1yden@dev-environment:~$ cat profile.json
 [ ⚡ Master ]--[ 📂 ~/projects/profile ]--[ 🐍 Python 3.14 ]
 ```
 
+## 🐍 My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh1yden/sh1yden/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh1yden/sh1yden/output/github-contribution-grid-snake.svg">
