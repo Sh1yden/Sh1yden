@@ -13,49 +13,58 @@ sh1yden@dev-environment:~$ cat profile.json
       "age": 18,
       "location": "Russia 🇷🇺, Kusrk",
       "hobbies": [
+        "Music 🎵",
         "Cycling 🚲",
         "Gaming 🎮",
-        "Music 🎵",
-        "Reading 📚",
+        "Watching Series & Films 🎥",
         "Traveling 🚗",
-        "Watching 🎥"
-      ],
+        "Reading 📚"
+      ]
     }
   },
   "stack": {
-    "languages": ["Python 🐍", "Java", "JavaScript", "SQL 🗄️"],
-    "frameworks": ["FastAPI 🚀", "Django", "SQLAlchemy 🏗️"],
-    "databases": ["PostgreSQL 🐘", "SQLite 🔋"],
+    "languages": ["Python 🐍", "Java ♨️", "JavaScript JS", "SQL 🗄️"],
+    "frameworks": [
+      "Asyncio",
+      "Aiohttp",
+      "Aiogram 🤖",
+      "FastAPI 🚀",
+      "Django DJ",
+      "SQLAlchemy 🏗️"
+    ],
+    "databases": ["PostgreSQL 🐘", "SQLite 🔋", "Redis 💾"]
   },
   "environment": {
     "os": "Windows 11 & Arch Linux 🐧",
     "tools": ["Docker 🐳", "Obsidian 📓", "Git 🌿"],
-    "daily_driver": "WSL 2 💻",
+    "daily_driver": "WSL 2 💻"
   },
   "active_work": {
     "projects": [
       {
         "name": "SkyNode",
-        "description": "Personal",
-        "url": "",
+        "description": "SkyNode is your personal weather hub. 🌩",
+        "url": "https://github.com/Sh1yden/SkyNode"
       },
       {
         "name": "LinkCutter",
-        "description": "",
-        "url": "",
+        "description": "LinkCutter",
+        "url": "https://github.com/Sh1yden/LinkCutter"
       },
       {
         "name": "Axis",
-        "description": "",
-        "url": "",
+        "description": "???",
+        "url": "???"
       }
-    ],
+    ]
   },
   "stats": {
-    "visitors": 100,
-  },
+    "visitors": 42
+  }
 }
+```
 
+```shell
 [ ⚡ Master ]--[ 📂 ~/projects/profile ]--[ 🐍 Python 3.14 ]
 ```
 
