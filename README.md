@@ -68,10 +68,6 @@ sh1yden@dev-environment:~# cat profile.json
 
 # 📊 GitHub Stats
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
