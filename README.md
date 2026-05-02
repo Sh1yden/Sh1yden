@@ -58,9 +58,6 @@ sh1yden@dev-environment:~# cat profile.json
         "url": "???"
       }
     ]
-  },
-  "stats": {
-    "visitors": 42
   }
 }
 ```
@@ -71,11 +68,22 @@ sh1yden@dev-environment:~# cat profile.json
 
 # 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sh1yden&theme=midnight-purple)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sh1yden?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sh1yden&theme=midnight-purple&hide=html"/>
+</td>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sh1yden&theme=midnight-purple&hide=html)
+<td width="50%" align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sh1yden&theme=midnight-purple" />
+<img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/Sh1yden?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=false" />
+</td>
+</tr>
+</table>
 
 ## 🐍 My Contributions
 
