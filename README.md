@@ -1,7 +1,7 @@
-<img src="assets/Banner.png" alt="Banner">
+<img src="assets/Banner.png" alt="# sh1yden@github:~#">
 
 ```bash
-sh1yden@dev-environment:~$ cat profile.json
+sh1yden@dev-environment:~# cat profile.json
 ```
 
 ```json
@@ -29,6 +29,7 @@ sh1yden@dev-environment:~$ cat profile.json
       "Aiohttp",
       "Aiogram 🤖",
       "FastAPI 🚀",
+      "Pydantic",
       "Django DJ",
       "SQLAlchemy 🏗️"
     ],
@@ -67,6 +68,14 @@ sh1yden@dev-environment:~$ cat profile.json
 ```shell
 [ ⚡ Master ]--[ 📂 ~/projects/profile ]--[ 🐍 Python 3.14 ]
 ```
+
+# 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sh1yden&theme=midnight-purple)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sh1yden?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sh1yden&theme=midnight-purple&hide=html)
 
 ## 🐍 My Contributions
 
