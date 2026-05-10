@@ -1,6 +1,6 @@
 <img src="assets/Banner.png" alt="# sh1yden@github:~#">
 
-```bash
+```shell
 sh1yden@dev-environment:~# cat profile.json
 ```
 
@@ -39,25 +39,6 @@ sh1yden@dev-environment:~# cat profile.json
     "os": "Windows 11 & Arch Linux 🐧",
     "tools": ["Docker 🐳", "Obsidian 📓", "Git 🌿"],
     "daily_driver": "WSL 2 💻"
-  },
-  "active_work": {
-    "projects": [
-      {
-        "name": "SkyNode",
-        "description": "SkyNode is your personal weather hub. 🌩",
-        "url": "https://github.com/Sh1yden/SkyNode"
-      },
-      {
-        "name": "LinkCutter",
-        "description": "LinkCutter",
-        "url": "https://github.com/Sh1yden/LinkCutter"
-      },
-      {
-        "name": "Axis",
-        "description": "???",
-        "url": "???"
-      }
-    ]
   }
 }
 ```
@@ -66,7 +47,7 @@ sh1yden@dev-environment:~# cat profile.json
 [ ⚡ Master ]--[ 📂 ~/projects/profile ]--[ 🐍 Python 3.14 ]
 ```
 
-# 📊 GitHub Stats
+# 📊 My Stats
 
 <table border="0">
 <tr border="0">
