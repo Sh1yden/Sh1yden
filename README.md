@@ -73,7 +73,7 @@ sh1yden@dev-environment:~# cat profile.json
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sh1yden"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sh1yden&theme=tokyonight&no-bg=true"/>
 
 <img src="https://wakatime.com/badge/user/89e7bf3c-ab2e-4147-8b93-ab3967b986b1.svg"/>
 
