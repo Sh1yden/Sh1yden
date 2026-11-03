@@ -45,11 +45,11 @@
 
 ---
 
-<center>
-    <img src="https://count.getloli.com/@Sh1yden?theme=booru-lisu&padding=8&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto"/> 
-    <br>
-    <img src="https://wakatime.com/badge/user/89e7bf3c-ab2e-4147-8b93-ab3967b986b1.svg?style=for-the-badge"/>
-</center>
+<div align="center">
+<img src="https://count.getloli.com/@Sh1yden?theme=booru-lisu&padding=8&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto"/>
+<br/>
+<img src="https://wakatime.com/badge/user/89e7bf3c-ab2e-4147-8b93-ab3967b986b1.svg?style=for-the-badge"/>
+</div>
 
 ---
 
