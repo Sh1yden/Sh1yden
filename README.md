@@ -1,6 +1,6 @@
 <pre><b>[sh1yden@dev-env ~]$ fetch</b></pre>
 
-<img src="assets/ascii-art.png" width="240" height="266" align="left"/>
+<img src="assets/ascii-art.png" width="270" height="300" align="left"/>
 
 <pre>
 <b>sh1yden@github.com</b>
@@ -14,6 +14,8 @@
 <b>Tools:</b>    Docker, Git, Nvim, Obsidian
 <b>Hobby:</b>    Music 🎵, Cycling 🚲, Gaming 🎮
 </pre>
+
+---
 
 # 📊 My Stats
 
@@ -44,9 +46,9 @@
 ---
 
 <center>
-    <img src="https://count.getloli.com/@Sh1yden?theme=booru-lisu&padding=8&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto"/> 
-    <br>
-    <img src="https://wakatime.com/badge/user/89e7bf3c-ab2e-4147-8b93-ab3967b986b1.svg?style=for-the-badge"/>
+<img src="https://count.getloli.com/@Sh1yden?theme=booru-lisu&padding=8&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto"/> 
+<br>
+<img src="https://wakatime.com/badge/user/89e7bf3c-ab2e-4147-8b93-ab3967b986b1.svg?style=for-the-badge"/>
 </center>
 
 ---
