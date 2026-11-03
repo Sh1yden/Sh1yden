@@ -1,51 +1,19 @@
-<img src="assets/Banner.png" alt="# sh1yden@github:~#">
+<pre><b>[sh1yden@dev-env ~]$ fetch</b></pre>
 
-```shell
-sh1yden@dev-environment:~# cat profile.json
-```
+<img src="assets/ascii-art.png" width="240" height="266" align="left"/>
 
-```json
-{
-  "identity": {
-    "nickname": "Shayden / Sh1yden",
-    "name": "Kirill",
-    "specs": {
-      "age": 18,
-      "location": "Russia 🇷🇺, Kusrk",
-      "hobbies": [
-        "Music 🎵",
-        "Cycling 🚲",
-        "Gaming 🎮",
-        "Watching Series & Films 🎥",
-        "Traveling 🚗",
-        "Reading 📚"
-      ]
-    }
-  },
-  "stack": {
-    "languages": ["Python 🐍", "Java ♨️", "JavaScript JS", "SQL 🗄️"],
-    "frameworks": [
-      "Asyncio",
-      "Aiohttp",
-      "Aiogram 🤖",
-      "FastAPI 🚀",
-      "Pydantic",
-      "Django DJ",
-      "SQLAlchemy 🏗️"
-    ],
-    "databases": ["PostgreSQL 🐘", "SQLite 🔋", "Redis 💾"]
-  },
-  "environment": {
-    "os": "Windows 11 & Arch Linux 🐧",
-    "tools": ["Docker 🐳", "Obsidian 📓", "Git 🌿"],
-    "daily_driver": "WSL 2 💻"
-  }
-}
-```
-
-```shell
-[ ⚡ Master ]--[ 📂 ~/projects/profile ]--[ 🐍 Python 3.13 ]
-```
+<pre>
+<b>sh1yden@github.com</b>
+--------------------------------------------
+<b>OS:</b>       Windows 11 🪟 & Arch Linux 🐧
+<b>Host: </b>    Kirill
+<b>Uptime:</b>   18 years
+<b>Role:</b>     Backend Developer
+<b>Langs:</b>    Python 🐍, C#, Java ♨️, SQL
+<b>DBs:</b>      PostgreSQL, SQLite, Redis
+<b>Tools:</b>    Docker, Git, Nvim, Obsidian
+<b>Hobby:</b>    Music 🎵, Cycling 🚲, Gaming 🎮
+</pre>
 
 # 📊 My Stats
 
@@ -73,16 +41,20 @@ sh1yden@dev-environment:~# cat profile.json
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sh1yden&theme=tokyonight&no-bg=true"/>
+---
 
-<img src="https://wakatime.com/badge/user/89e7bf3c-ab2e-4147-8b93-ab3967b986b1.svg"/>
+<center>
+    <img src="https://count.getloli.com/@Sh1yden?theme=booru-lisu&padding=8&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto"/> 
+    <br>
+    <img src="https://wakatime.com/badge/user/89e7bf3c-ab2e-4147-8b93-ab3967b986b1.svg?style=for-the-badge"/>
+</center>
 
-<img src="https://komarev.com/ghpvc/?username=sh1yden&color=blueviolet"/>
+---
 
 ## 🐍 Eat My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh1yden/sh1yden/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh1yden/sh1yden/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sh1yden/sh1yden/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/sh1yden/sh1yden/output/github-contribution-grid-snake.svg">
 </picture>
