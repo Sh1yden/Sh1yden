@@ -1,6 +1,6 @@
 <pre><b>[sh1yden@dev-env ~]$ fetch</b></pre>
 
-<img src="assets/ascii-art.png" width="240px" height="280px" align="left"/>
+<img src="assets/ascii-art.png" width="240px" height="300px" align="left"/>
 
 <pre>
 <b>sh1yden@github.com</b>
