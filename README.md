@@ -1,6 +1,6 @@
 <pre><b>[sh1yden@dev-env ~]$ fetch</b></pre>
 
-<img src="assets/ascii-art.png" width="240px" height="300px" align="left"/>
+<img src="assets/ascii-art.png" width="52%" align="left"/>
 
 <pre>
 <b>sh1yden@github.com</b>
@@ -13,6 +13,14 @@
 <b>DBs:</b>      PostgreSQL, SQLite, Redis
 <b>Tools:</b>    Docker, Git, Nvim, Obsidian
 <b>Hobby:</b>    Music 🎵, Cycling 🚲, Gaming 🎮
+
+
+
+
+
+
+
+
 </pre>
 
 ---
